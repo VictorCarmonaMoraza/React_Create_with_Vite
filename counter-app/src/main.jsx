@@ -9,7 +9,7 @@ import Tarea from './Tarea';
 
 ReactDOM.createRoot(document.getElementById('root')).render(
     <React.StrictMode>
-        {/* <FirstAppVictor2024 /> */}
-        <Tarea/>
+        <FirstAppVictor2024 />
+        {/* <Tarea/> */}
     </React.StrictMode>
 );
